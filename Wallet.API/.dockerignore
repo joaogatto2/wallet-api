@@ -1,0 +1,34 @@
+# Ignore compiled output
+**/bin/
+**/obj/
+**/out/
+
+# User-specific settings
+*.user
+*.suo
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Git
+.git/
+.gitignore
+
+# Docker
+Dockerfile.*
+docker-compose.override.yml
+
+# Test results
+TestResults/
