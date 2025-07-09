@@ -17,7 +17,7 @@ PGADMIN4:
 - http://localhost:5050/
 - usuário: admin@admin.com
 - senha: admin123
-- Host=postgres;Port=5432;Database=WalletDb;Username=admin;Password=admin123
+- Host=localhost;Port=5432;Database=WalletDb;Username=admin;Password=admin123
 
 # Desafio
 - Autenticação
